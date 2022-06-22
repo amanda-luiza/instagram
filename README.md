@@ -2,4 +2,4 @@
 
 ***
 
-Projeto da aula de Flexbox da plataforma DIO. A intenção era recriar a interface do Instagram utilizando os conceitos trabalhados em aula.
+Desafio de projeto CSS/Flexbox (DIO): reconstruir a página de login do Instagram.
